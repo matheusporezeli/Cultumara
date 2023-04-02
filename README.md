@@ -11,15 +11,15 @@ Uma página para divulgação de eventos culturais.
 
 Mobile - 360px
 
-![Mobile](https://user-images.githubusercontent.com/112051389/218305665-4208dddd-c30a-4a81-be17-fb7c3d2a3300.gif)
+![Mobile](https://user-images.githubusercontent.com/112051389/218305665-4208dddd-c30a-4a81-be17-fb7c3d2a3300.gif#vitrinedev)
 
 Tablet - 720px
 
-![Tablet](https://user-images.githubusercontent.com/112051389/218305670-12364924-60fe-469b-b7f3-0fa2ac5608d3.gif)
+![Tablet](https://user-images.githubusercontent.com/112051389/218305670-12364924-60fe-469b-b7f3-0fa2ac5608d3.gif#vitrinedev)
 
 Desktop - 1440px
 
-![Desktop](https://user-images.githubusercontent.com/112051389/218305674-90161c48-868a-4fb5-9247-433da4e39a9b.gif)
+![Desktop](https://user-images.githubusercontent.com/112051389/218305674-90161c48-868a-4fb5-9247-433da4e39a9b.gif#vitrinedev)
 
 ## Detalhes do projeto
 
